@@ -35,6 +35,7 @@ On contrôle la cadence du code (c'est à dire le temps représentant un appui c
 
 Ce projet a été réalisé pendant la période du confinement, nous n'avions donc pas accès au matériel.
 Nous avons donc utiliser tinkercad.
+Le code n'a pas été séparé en différents fichiers car cela n'était pas possible avec ce système.
 
 Voici le lien du projet avec le montage effectué : https://www.tinkercad.com/things/aTjUMLuxAuq
 
